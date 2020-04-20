@@ -1,9 +1,10 @@
 # Index
 ## Projects completed  
 1. Smoke Semantic Segmentation  
-2. Character Recognition using neural network
-3. Gaussian Filtering
-4. Object Detection using tensorflow
+2. Visual SLAM ing Intel RealSenseR200 Camera on Aero RTF Drone  
+2. Character Recognition using neural network  
+3. Gaussian Filtering  
+4. Object Detection using tensorflow  
 
 # Project Ideas  
 ## Projects I may or may not pursue in the future  
