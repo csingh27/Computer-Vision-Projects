@@ -23,4 +23,4 @@ simultaneously and use the correlation to recommend applications/websites
 *Deep Learning*  
 - Gender predictor (der/die/das) for German words  
 *Android app development*  
-- An accountability app to form habits/ meet goals  
+- An accountability app to help people form habits/ meet goals  
