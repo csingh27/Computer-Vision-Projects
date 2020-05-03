@@ -24,3 +24,6 @@ simultaneously and use the correlation to recommend applications/websites
 - Gender predictor (der/die/das) for German words  
 *Android app development*  
 - An accountability app to help people form habits/ meet goals  
+
+# Kaggle Projects  
+https://github.com/mrgloom/Kaggle-Computer-Vision-Competitions-List
