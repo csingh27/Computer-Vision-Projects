@@ -7,7 +7,7 @@
 4. Object Detection using tensorflow  
 
 ## Projects currently working on  
-N/A  
+Fabric manipulation using Model-free visual reinforcement learning   
 
 # Project Ideas  
 ## Projects I may or may not pursue in the future  
@@ -24,6 +24,9 @@ simultaneously and use the correlation to recommend applications/websites
 - Gender predictor (der/die/das) for German words  
 *Android app development*  
 - An accountability app to help people form habits/ meet goals  
+*AI Planning*  
+- AI Planning based app to generate daily planner given a set of tasks to complete  
+*General automation*  
+- Automate clip generation from full length podcast videos  
 
 # Kaggle Projects  
-https://github.com/mrgloom/Kaggle-Computer-Vision-Competitions-List
