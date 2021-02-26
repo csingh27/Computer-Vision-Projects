@@ -3,9 +3,10 @@
 1. Smoke Semantic Segmentation (https://github.com/csingh27/Project-Smoke-Segmentation)  
 2. Visual SLAM using Intel RealSense R200 Camera on Aero RTF Drone (https://github.com/csingh27/VisualSLAM-on-Drone)- TO BE UPDATED  
 3. Simulation environment for robot grasping  
-4. Character Recognition using neural network  
-5. Gaussian Filtering  
-6. Object Detection using tensorflow
+4. Diana Robot control using ROS   
+5. Character Recognition using neural network  
+6. Gaussian Filtering  
+7. Object Detection using tensorflow
 
 ## Projects currently working on  
 Fabric manipulation using Model-free visual reinforcement learning  
@@ -33,3 +34,4 @@ simultaneously and use the correlation to recommend applications/websites
 - Automate clip generation from full length podcast videos  
 
 # Kaggle Projects  
+None  
