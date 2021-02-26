@@ -2,8 +2,8 @@
 ## Projects completed  
 1. Smoke Semantic Segmentation (https://github.com/csingh27/Project-Smoke-Segmentation)  
 2. Visual SLAM using Intel RealSense R200 Camera on Aero RTF Drone (https://github.com/csingh27/VisualSLAM-on-Drone)- TO BE UPDATED  
-3. Simulation environment for robot grasping  
-4. Diana Robot control using ROS   
+3. Simulation environment for robot grasping - TO BE UPDATED   
+4. Diana Robot control using ROS - TO BE UPDATED  
 5. Character Recognition using neural network  
 6. Gaussian Filtering  
 7. Object Detection using tensorflow
