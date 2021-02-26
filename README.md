@@ -4,9 +4,9 @@
 2. Visual SLAM using Intel RealSense R200 Camera on Aero RTF Drone (https://github.com/csingh27/VisualSLAM-on-Drone)- TO BE UPDATED  
 3. Simulation environment for robot grasping - TO BE UPDATED   
 4. Diana Robot control using ROS - TO BE UPDATED  
-5. Character Recognition using neural network  
-6. Gaussian Filtering  
-7. Object Detection using tensorflow
+5. Character Recognition using neural network (https://github.com/csingh27/Projects/blob/master/Character%20Recognition%20using%20neural%20networksNeural%20Networks-handwritten%20character%20recognition.ipynb)    
+6. Gaussian Filtering (https://github.com/csingh27/Projects/tree/master/Gaussian_Filtering)  
+7. Object Detection using tensorflow (https://github.com/csingh27/Projects/tree/master/Object%20Detection%20using%20Tensorflow)  
 
 ## Projects currently working on  
 Fabric manipulation using Model-free visual reinforcement learning  
