@@ -1,17 +1,49 @@
 # Index
 ## Projects completed  
-1. Smoke Semantic Segmentation (https://github.com/csingh27/Project-Smoke-Segmentation)  
-2. Visual SLAM using Intel RealSense R200 Camera on Aero RTF Drone (https://github.com/csingh27/VisualSLAM-on-Drone)- TO BE UPDATED  
-3. Simulation environment for robot grasping - (https://github.com/csingh27/Bin-Picking-Simulation-using-Pybullet)     
-4. Diana Robot control using ROS - TO BE UPDATED  
-5. Character Recognition using neural network (https://github.com/csingh27/Projects/blob/master/Character%20Recognition%20using%20neural%20networksNeural%20Networks-handwritten%20character%20recognition.ipynb)    
+1. Smoke Semantic Segmentation
+*Implementation* : https://github.com/csingh27/Project-Smoke-Segmentation)  
+*Difficulty Level* : ★★★☆☆  
+*Concepts Learnt* : U-Net  
+*Skills* : Tensorflow, Python  
+*Hardware* : None  
+  
+2. Visual SLAM using Intel RealSense R200 Camera on Aero RTF Drone (https://github.com/csingh27/VisualSLAM-on-Drone)
+*Implementation* : TO BE UPDATED  
+*Difficulty Level* : ★★★☆☆  
+*Concepts Learnt* : VisualSLAM  
+*Skills* : ROS, Python  
+  
+3. Simulation environment for robot grasping
+*Implementation* : https://github.com/csingh27/Bin-Picking-Simulation-using-Pybullet)  
+*Difficulty Level* : ★★★☆☆  
+*Concepts Learnt* : Grasping, Sythentic Dataset Generation  
+*Skills* : Pybullet, Python  
+  
+4. Diana Robot control using ROS  
+*Implementation* : TO BE UPDATED  
+*Difficulty Level* : ★★★☆☆  
+*Skills* : ROS  
+  
+5. Character Recognition using neural network   
+*Implementation* : https://github.com/csingh27/Projects/blob/master/Character%20Recognition%20using%20neural%20networksNeural%20Networks-handwritten%20character%20recognition.ipynb  
+*Difficulty Level* : ★☆☆☆☆  
 6. Gaussian Filtering (https://github.com/csingh27/Projects/tree/master/Gaussian_Filtering)  
-7. Object Detection using tensorflow (https://github.com/csingh27/Projects/tree/master/Object%20Detection%20using%20Tensorflow)  
+*Difficulty Level* : ★☆☆☆☆  
+  
+7. Object Detection using tensorflow 
+*Implementation* : https://github.com/csingh27/Projects/tree/master/Object%20Detection%20using%20Tensorflow)  
+*Difficulty Level* : ★☆☆☆☆  
+
+8. Principal Component Analysis from scratch (https://github.com/csingh27/Principal-Component-Analysis)   
+*Difficulty Level* : ★☆☆☆☆  
+
+9. Mask R-CNN Implementation using Tensorflow Object Detection API - TO BE UPDATED  
+*Difficulty Level* : ★★☆☆☆  
 
 ## Projects currently working on  
-Fabric manipulation using Model-free visual reinforcement learning  
-(https://github.com/csingh27/Learning-To-Manipulate-Deformable-Objects-without-Demonstration)  
-
+1. Fabric manipulation using Model-free visual reinforcement learning  
+2. A.I. Task Planning  
+  
 # Project Ideas  
 ## Projects I may or may not pursue in the future  
 *Computer Vision*  
