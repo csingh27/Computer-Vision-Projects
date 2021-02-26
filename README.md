@@ -1,13 +1,15 @@
 # Index
 ## Projects completed  
 1. Smoke Semantic Segmentation (https://github.com/csingh27/Project-Smoke-Segmentation)  
-2. Visual SLAM using Intel RealSense R200 Camera on Aero RTF Drone  
-2. Character Recognition using neural network  
-3. Gaussian Filtering  
-4. Object Detection using tensorflow  
+2. Visual SLAM using Intel RealSense R200 Camera on Aero RTF Drone (https://github.com/csingh27/VisualSLAM-on-Drone)- TO BE UPDATED  
+3. Simulation environment for robot grasping  
+4. Character Recognition using neural network  
+5. Gaussian Filtering  
+6. Object Detection using tensorflow
 
 ## Projects currently working on  
-Fabric manipulation using Model-free visual reinforcement learning   
+Fabric manipulation using Model-free visual reinforcement learning  
+(https://github.com/csingh27/Learning-To-Manipulate-Deformable-Objects-without-Demonstration)  
 
 # Project Ideas  
 ## Projects I may or may not pursue in the future  
@@ -19,7 +21,8 @@ Fabric manipulation using Model-free visual reinforcement learning
 on chosen parameters of evaluation (e.g. gestures, vocal variety, etc.)
 - Use mobile/laptop camera to detect human emotion, track mobile/web application/website usage
 simultaneously and use the correlation to recommend applications/websites
-*Robotics*  
+*Robot Manipulation*  
+* Implement DexNet Research Paper   
 *Deep Learning*  
 - Gender predictor (der/die/das) for German words  
 *Android app development*  
