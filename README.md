@@ -47,6 +47,7 @@
 2. A.I. Task Planning  
 
 ## The Building Culture Community Projects  
+Collaborative projects in Robotics and AI for members of The Building Culture Community
 *https://github.com/csingh27/The-Building-Culture-Projects/blob/main/README.md*  
   
 # Project Ideas  
