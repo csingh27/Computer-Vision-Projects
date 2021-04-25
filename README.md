@@ -45,6 +45,9 @@
 ## Projects currently working on  
 1. Fabric manipulation using Model-free visual reinforcement learning  
 2. A.I. Task Planning  
+
+## The Building Culture Community Projects  
+*https://github.com/csingh27/The-Building-Culture-Projects/blob/main/README.md*  
   
 # Project Ideas  
 ## Projects I may or may not pursue in the future  
