@@ -44,7 +44,10 @@
 
 ## Projects currently working on  
 1. Fabric manipulation using Model-free visual reinforcement learning  
-2. A.I. Task Planning  
+*Implementation* : https://github.com/csingh27sewts/Masterarbeit  
+*Difficulty Level* : ★★★☆☆  
+
+3. A.I. Task Planning  
 
 ## The Building Culture Community Projects  
 Collaborative projects in Robotics and AI for members of The Building Culture Community  
